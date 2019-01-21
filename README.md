@@ -8,6 +8,6 @@ Projeto do curso udemy
 * terceiro ponto
 
 | Coluna 1 | Coluna 2 |Coluna 3 |
-|Linha 1|Linha 1|Linha 1|
-|Linha 2|Linha 2|Linha 2|
-|Linha 3|Linha 3|Linha 3|
+| Linha 1 | Linha 1 | Linha 1 |
+| Linha 2 | Linha 2 | Linha 2 |
+| Linha 3 | Linha 3 | Linha 3 |
